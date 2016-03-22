@@ -1,0 +1,16 @@
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\bin\Debug\AcesUp_CLI.exe
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\bin\Debug\AcesUp_CLI.pdb
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\bin\Debug\AcesUp_CoreLibrary.dll
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\bin\Debug\AcesUp_CoreLibrary.pdb
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\obj\Debug\AcesUp_CLI.exe
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CLI\obj\Debug\AcesUp_CLI.pdb
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_CLI\AcesUp_CLI\obj\Debug\AcesUp_CLI.exe
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_CLI\AcesUp_CLI\obj\Debug\AcesUp_CLI.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\bin\Debug\AcesUp_CLI.exe
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\bin\Debug\AcesUp_CLI.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\bin\Debug\AcesUp_CoreLibrary.dll
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\bin\Debug\AcesUp_CoreLibrary.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\obj\Debug\AcesUp_CLI.exe
+F:\Development\Aces Up\Aces Up\AcesUp_CLI\AcesUp_CLI\obj\Debug\AcesUp_CLI.pdb

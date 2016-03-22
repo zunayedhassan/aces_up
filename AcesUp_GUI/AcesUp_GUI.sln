@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcesUp_GUI", "AcesUp_GUI\AcesUp_GUI.csproj", "{3387BBC1-D8CE-4B7F-AAED-C117C7BD7336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcesUp_CLI", "..\AcesUp_CLI\AcesUp_CLI\AcesUp_CLI.csproj", "{531DB12B-E980-412D-A397-F86F7848D10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcesUp_CoreLibrary", "..\AcesUp_CoreLibrary\AcesUp_CoreLibrary\AcesUp_CoreLibrary.csproj", "{154955C5-235A-44E6-98B0-FC1C932C9A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3387BBC1-D8CE-4B7F-AAED-C117C7BD7336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3387BBC1-D8CE-4B7F-AAED-C117C7BD7336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3387BBC1-D8CE-4B7F-AAED-C117C7BD7336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3387BBC1-D8CE-4B7F-AAED-C117C7BD7336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531DB12B-E980-412D-A397-F86F7848D10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531DB12B-E980-412D-A397-F86F7848D10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531DB12B-E980-412D-A397-F86F7848D10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531DB12B-E980-412D-A397-F86F7848D10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154955C5-235A-44E6-98B0-FC1C932C9A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154955C5-235A-44E6-98B0-FC1C932C9A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154955C5-235A-44E6-98B0-FC1C932C9A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154955C5-235A-44E6-98B0-FC1C932C9A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

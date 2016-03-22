@@ -1,0 +1,10 @@
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CoreLibrary\bin\Release\AcesUp_CoreLibrary.dll
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CoreLibrary\bin\Release\AcesUp_CoreLibrary.pdb
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CoreLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CoreLibrary\obj\Release\AcesUp_CoreLibrary.dll
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_CoreLibrary\obj\Release\AcesUp_CoreLibrary.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_CoreLibrary\AcesUp_CoreLibrary\bin\Release\AcesUp_CoreLibrary.dll
+F:\Development\Aces Up\Aces Up\AcesUp_CoreLibrary\AcesUp_CoreLibrary\bin\Release\AcesUp_CoreLibrary.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_CoreLibrary\AcesUp_CoreLibrary\obj\Release\ResolveAssemblyReference.cache
+F:\Development\Aces Up\Aces Up\AcesUp_CoreLibrary\AcesUp_CoreLibrary\obj\Release\AcesUp_CoreLibrary.dll
+F:\Development\Aces Up\Aces Up\AcesUp_CoreLibrary\AcesUp_CoreLibrary\obj\Release\AcesUp_CoreLibrary.pdb

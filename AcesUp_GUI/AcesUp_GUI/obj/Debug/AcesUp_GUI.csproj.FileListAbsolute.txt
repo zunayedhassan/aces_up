@@ -1,0 +1,46 @@
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\bin\Debug\AcesUp_GUI.exe
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\bin\Debug\AcesUp_GUI.pdb
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\App.g.cs
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\AcesUp_GUI_MarkupCompile.cache
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\AcesUp_GUI.g.resources
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\AcesUp_GUI.Properties.Resources.resources
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\AcesUp_GUI.csproj.GenerateResource.Cache
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\AcesUp_GUI.exe
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\AcesUp_GUI.pdb
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\bin\Debug\AcesUp_CoreLibrary.dll
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\bin\Debug\AcesUp_CoreLibrary.pdb
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\Window1.baml
+C:\Users\Zunayed Hassan\AppData\Local\Temporary Projects\AcesUp_GUI\obj\Debug\Window1.g.cs
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.exe
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.pdb
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_GUI.exe
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_GUI.pdb
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_CoreLibrary.dll
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_CoreLibrary.pdb
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\App.g.cs
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI_MarkupCompile.cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.g.resources
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.Properties.Resources.resources
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.csproj.GenerateResource.Cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\Window1.baml
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2008\Projects\AcesUp_GUI\AcesUp_GUI\obj\Debug\Window1.g.cs
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.exe
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_GUI.exe
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_GUI.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_CoreLibrary.dll
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_CoreLibrary.pdb
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\Window1.baml
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\Window1.g.cs
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\App.g.cs
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI_MarkupCompile.cache
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.g.resources
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.Properties.Resources.resources
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.csproj.GenerateResource.Cache
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_GUI.exe.manifest
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\bin\Debug\AcesUp_GUI.application
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.exe.manifest
+F:\Development\Aces Up\Aces Up\AcesUp_GUI\AcesUp_GUI\obj\Debug\AcesUp_GUI.application
